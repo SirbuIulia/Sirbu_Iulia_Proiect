@@ -1,0 +1,63 @@
+﻿@model PaginatedList<Sirbu_Iulia_Proiect_Restaurante.Models.Restaurant>
+
+@{
+    ViewData["Title"] = "Restaurante";
+}
+
+<h1>Restaurante</h1>
+
+<a asp-action="Create" class="btn btn-success">
+    <i class="bi bi-plus-lg"></i> Adaugă Restaurant
+</a>
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Caută după nume sau adresă:
+            <input type="text" name="searchString" value="@ViewData["CurrentFilter"]" class="form-control d-inline w-auto" />
+            <input type="submit" value="Caută" class="btn btn-primary" />
+            |
+            <a asp-action="Index" class="btn btn-secondary">Toată Lista</a>
+        </p>
+    </div>
+</form>
+
+<table class="table table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]">Nume</a>
+            </th>
+            <th>Adresă</th>
+            <th>Telefon</th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["CuisineSortParm"]">Tip Bucătărie</a>
+            </th>
+            <th>Acțiuni</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Address</td>
+                <td>@item.Phone</td>
+                <td>@item.CuisineType?.Name</td>
+                <td>
+                    <a asp-action="Create" asp-controller="Reservations" asp-route-restaurantId="@item.ID" class="btn btn-primary btn-sm">Rezervă</a>
+                    <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.ID" class="btn btn-info btn-sm">Detalii</a>
+                    <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-danger btn-sm">Șterge</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="d-flex justify-content-between">
+    <a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex - 1)" asp-route-currentFilter="@ViewData["CurrentFilter"]"
+       class="btn btn-outline-primary @(Model.HasPreviousPage ? "" : "disabled")">Anterior</a>
+
+    <a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex + 1)" asp-route-currentFilter="@ViewData["CurrentFilter"]"
+       class="btn btn-outline-primary @(Model.HasNextPage ? "" : "disabled")">Următor</a>
+</div>

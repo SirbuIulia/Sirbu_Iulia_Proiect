@@ -1,0 +1,51 @@
+﻿@model Sirbu_Iulia_Proiect_Restaurante.Models.LibraryViewModels.StatisticsViewModel
+
+@{
+    ViewData["Title"] = "Statistici Rezervări";
+}
+
+<h1>Statistici Rezervări</h1>
+
+
+<h2>Detalii Rezervări</h2>
+<table class="table table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Restaurant</th>
+            <th>
+                <a asp-action="Statistics" asp-route-sortOrder="@ViewData["DateSortParm"]">Data Rezervării</a>
+            </th>
+            <th>Număr Rezervări</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var stat in Model.DetailedStatistics)
+        {
+            <tr>
+                <td>@stat.RestaurantName</td>
+                <td>@stat.ReservationDate?.ToString("dd/MM/yyyy")</td>
+                <td>@stat.ReservationCount</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<h2>Număr Total Rezervări per Restaurant</h2>
+<table class="table table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Restaurant</th>
+            <th>Total Rezervări</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var total in Model.TotalReservations)
+        {
+            <tr>
+                <td>@total.RestaurantName</td>
+                <td>@total.ReservationCount</td>
+            </tr>
+        }
+    </tbody>
+</table>

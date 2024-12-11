@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model GrpcCustomersService.CustomerList
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Listă clienți</h1>
+<p>
+    <a asp-action="Create">Creează</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nume
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Telefon
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Item)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.CustomerId">Editează</a> |
+                    <a asp-action="Details" asp-route-id="@item.CustomerId">Detalii</a> |
+                    <a asp-action="Delete" asp-route-id="@item.CustomerId">Șterge</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

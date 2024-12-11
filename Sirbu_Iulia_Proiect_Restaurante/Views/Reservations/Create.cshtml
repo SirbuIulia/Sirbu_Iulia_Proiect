@@ -1,0 +1,53 @@
+﻿@model Sirbu_Iulia_Proiect_Restaurante.Models.Reservation
+
+@{
+    ViewData["Title"] = "Creează Rezervare";
+}
+
+<h1>Creează Rezervare</h1>
+
+<h2>@ViewData["RestaurantName"]</h2>
+
+<h4>Formular de Rezervare</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <input type="hidden" name="restaurantId" value="@ViewData["RestaurantID"]" />
+
+            <div class="form-group">
+                <label asp-for="TableID" class="control-label">Alege Masa</label>
+                <select asp-for="TableID" class="form-control" asp-items="@(ViewBag.TableID)">
+                </select>
+                <span asp-validation-for="TableID" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NumberOfPeople" class="control-label">Număr de Persoane</label>
+                <input asp-for="NumberOfPeople" type="number" class="form-control" min="1" />
+                <span asp-validation-for="NumberOfPeople" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ReservationDate" class="control-label">Data și Ora Rezervării</label>
+                <input asp-for="ReservationDate" type="datetime-local" class="form-control" />
+                <span asp-validation-for="ReservationDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Creează Rezervare</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Înapoi la Listă</a>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

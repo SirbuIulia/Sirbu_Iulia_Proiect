@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Sirbu_Iulia_Proiect_Restaurante.Models.Customer>
+
+@{
+    ViewData["Title"] = "Customers";
+}
+
+<h1 class="text-primary mb-4">Customers</h1>
+
+@* <p> *@
+@*     <a asp-action="Create" class="btn btn-success">Create New</a> *@
+@* </p> *@
+
+<div class="card shadow-sm">
+    <div class="card-body p-0">
+        <table class="table table-hover mb-0">
+            <thead class="table-light">
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.FirstOrDefault().Name)</th>
+                    <th>@Html.DisplayNameFor(model => model.FirstOrDefault().Email)</th>
+                    <th>@Html.DisplayNameFor(model => model.FirstOrDefault().Phone)</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Phone)</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.CustomerID" class="btn btn-sm btn-primary">Edit</a>
+                            <a asp-action="Details" asp-route-id="@item.CustomerID" class="btn btn-sm btn-info text-white">Details</a>
+                            <a asp-action="Delete" asp-route-id="@item.CustomerID" class="btn btn-sm btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

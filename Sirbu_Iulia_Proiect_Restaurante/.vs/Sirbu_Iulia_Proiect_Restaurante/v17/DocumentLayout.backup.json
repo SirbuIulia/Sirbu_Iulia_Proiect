@@ -1,0 +1,1547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\home\\reservationnotification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\home\\reservationnotification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\customersgrpc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\customersgrpc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\hubs\\reservationnotificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:hubs\\reservationnotificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\wwwroot\\js\\reservationnotification.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:wwwroot\\js\\reservationnotification.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\models\\libraryviewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:models\\libraryviewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\home\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\home\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\wwwroot\\js\\notification.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:wwwroot\\js\\notification.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\models\\libraryviewmodels\\reservationnotificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:models\\libraryviewmodels\\reservationnotificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\customersgrpc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\customersgrpc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\controllers\\customersgrpccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:controllers\\customersgrpccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\controllers\\cuisinetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:controllers\\cuisinetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\reservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\reservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\tables\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\tables\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\tables\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\tables\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\reservations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\reservations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\reservations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\reservations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\tables\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\tables\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\tables\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\tables\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\tables\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\tables\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\restaurants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\restaurants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5602-330D-47E1-B915-EB7A92DE9B1B}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\proiect\\librarymodel\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\reservations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\reservations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\presencetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:presencetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5602-330D-47E1-B915-EB7A92DE9B1B}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\proiect\\librarymodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\customersgrpc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\customersgrpc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62027195-3AA6-4D66-998E-1C712E38E6C5}|..\\GrpcCustomersService\\GrpcCustomersService.csproj|c:\\lab_mpa\\proiect\\grpccustomersservice\\services\\grpccrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62027195-3AA6-4D66-998E-1C712E38E6C5}|..\\GrpcCustomersService\\GrpcCustomersService.csproj|c:\\lab_mpa\\proiect\\grpccustomersservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62027195-3AA6-4D66-998E-1C712E38E6C5}|..\\GrpcCustomersService\\GrpcCustomersService.csproj|c:\\lab_mpa\\proiect\\grpccustomersservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\obj\\Debug\\net8.0\\Protos\\CustomersCRUDGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\Protos\\CustomersCRUDGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\customersgrpc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\customersgrpc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\customersgrpc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\customersgrpc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62027195-3AA6-4D66-998E-1C712E38E6C5}|..\\GrpcCustomersService\\GrpcCustomersService.csproj|c:\\lab_mpa\\proiect\\grpccustomersservice\\grpccustomersservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\sirbu_iulia_proiect_restaurante.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:sirbu_iulia_proiect_restaurante.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62027195-3AA6-4D66-998E-1C712E38E6C5}|..\\GrpcCustomersService\\GrpcCustomersService.csproj|c:\\lab_mpa\\proiect\\grpccustomersservice\\protos\\customerscrud.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5602-330D-47E1-B915-EB7A92DE9B1B}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\proiect\\librarymodel\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62027195-3AA6-4D66-998E-1C712E38E6C5}|..\\GrpcCustomersService\\GrpcCustomersService.csproj|c:\\lab_mpa\\proiect\\grpccustomersservice\\grpccustomersservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\models\\roleedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:models\\roleedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\models\\rolemodification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:models\\rolemodification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\roles\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\roles\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5602-330D-47E1-B915-EB7A92DE9B1B}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\proiect\\librarymodel\\librarymodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE6BA7B-EE05-4B18-AC73-ABFF45357932}|..\\LibraryWebAPI\\LibraryWebAPI.csproj|c:\\lab_mpa\\proiect\\librarywebapi\\librarywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE6BA7B-EE05-4B18-AC73-ABFF45357932}|..\\LibraryWebAPI\\LibraryWebAPI.csproj|c:\\lab_mpa\\proiect\\librarywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE6BA7B-EE05-4B18-AC73-ABFF45357932}|..\\LibraryWebAPI\\LibraryWebAPI.csproj|c:\\lab_mpa\\proiect\\librarywebapi\\librarywebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE6BA7B-EE05-4B18-AC73-ABFF45357932}|..\\LibraryWebAPI\\LibraryWebAPI.csproj|c:\\lab_mpa\\proiect\\librarywebapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE6BA7B-EE05-4B18-AC73-ABFF45357932}|..\\LibraryWebAPI\\LibraryWebAPI.csproj|c:\\lab_mpa\\proiect\\librarywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\home\\statistics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\home\\statistics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\models\\libraryviewmodels\\reservationstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:models\\libraryviewmodels\\reservationstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\cuisinetypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\cuisinetypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\models\\libraryviewmodels\\restaurantindexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:models\\libraryviewmodels\\restaurantindexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\models\\restaurantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:models\\restaurantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryContext_3852c061_0757_4fad_a342_42856ce4e749/True/SqlTable/dbo.Reservation.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\cuisinetypes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\cuisinetypes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\cuisinetypes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\cuisinetypes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\cuisinetypes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\cuisinetypes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\cuisinetypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\cuisinetypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\restaurants\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\restaurants\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\restaurants\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\restaurants\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\views\\restaurants\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:views\\restaurants\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\migrations\\20241208171433_createdatabases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:migrations\\20241208171433_createdatabases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|c:\\lab_mpa\\proiect\\sirbu_iulia_proiect_restaurante\\migrations\\identity\\20241209195005_identityscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B5A17-FBD0-4174-B825-0CEDCC22A8DA}|Sirbu_Iulia_Proiect_Restaurante.csproj|solutionrelative:migrations\\identity\\20241209195005_identityscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:42:02.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "reservationNotification.js",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\wwwroot\\js\\reservationNotification.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\reservationNotification.js",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\wwwroot\\js\\reservationNotification.js",
+              "RelativeToolTip": "wwwroot\\js\\reservationNotification.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-11T15:25:04.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CustomersGrpc\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomersGrpc\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CustomersGrpc\\Create.cshtml",
+              "RelativeToolTip": "Views\\CustomersGrpc\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T16:14:41.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationNotification.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Home\\ReservationNotification.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ReservationNotification.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Home\\ReservationNotification.cshtml",
+              "RelativeToolTip": "Views\\Home\\ReservationNotification.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T15:47:45.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationNotificationHub.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Hubs\\ReservationNotificationHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ReservationNotificationHub.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Hubs\\ReservationNotificationHub.cs",
+              "RelativeToolTip": "Hubs\\ReservationNotificationHub.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:20:57.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:24:50.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:46:37.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Notification.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Home\\Notification.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Notification.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Home\\Notification.cshtml",
+              "RelativeToolTip": "Views\\Home\\Notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T20:09:00.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Home\\Chat.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Chat.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Home\\Chat.cshtml",
+              "RelativeToolTip": "Views\\Home\\Chat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:27:14.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatisticsViewModel.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\LibraryViewModels\\StatisticsViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LibraryViewModels\\StatisticsViewModel.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\LibraryViewModels\\StatisticsViewModel.cs",
+              "RelativeToolTip": "Models\\LibraryViewModels\\StatisticsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:45:50.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "notification.js",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\wwwroot\\js\\notification.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\notification.js",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\wwwroot\\js\\notification.js",
+              "RelativeToolTip": "wwwroot\\js\\notification.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T20:07:40.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "wwwroot\\js\\chat.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T19:28:04.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservationNotificationViewModel.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\LibraryViewModels\\ReservationNotificationViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LibraryViewModels\\ReservationNotificationViewModel.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\LibraryViewModels\\ReservationNotificationViewModel.cs",
+              "RelativeToolTip": "Models\\LibraryViewModels\\ReservationNotificationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:50:19.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\NotificationHub.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:05:09.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CustomersGrpc\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomersGrpc\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CustomersGrpc\\Index.cshtml",
+              "RelativeToolTip": "Views\\CustomersGrpc\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T16:09:56.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:06:05.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:24:40.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:16:18.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:12:36.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:32:02.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:42:13.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TablesController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\TablesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TablesController.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\TablesController.cs",
+              "RelativeToolTip": "Controllers\\TablesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:59:18.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomersGrpcController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\CustomersGrpcController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersGrpcController.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\CustomersGrpcController.cs",
+              "RelativeToolTip": "Controllers\\CustomersGrpcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:02:26.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CuisineTypesController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\CuisineTypesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CuisineTypesController.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\CuisineTypesController.cs",
+              "RelativeToolTip": "Controllers\\CuisineTypesController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:35:54.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClaimsController.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "Controllers\\ClaimsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:04:41.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RestaurantsController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\RestaurantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestaurantsController.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Controllers\\RestaurantsController.cs",
+              "RelativeToolTip": "Controllers\\RestaurantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:35:29.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Reservations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Reservations\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T10:03:43.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Tables\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tables\\Delete.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Tables\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Tables\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T13:09:51.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Reservations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Reservations\\Create.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T08:15:31.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Tables\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tables\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Tables\\Index.cshtml",
+              "RelativeToolTip": "Views\\Tables\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:32:35.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Restaurants\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Restaurants\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Restaurants\\Index.cshtml",
+              "RelativeToolTip": "Views\\Restaurants\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:21:10.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Reservations\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Details.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Reservations\\Details.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:34:03.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Reservations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Delete.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Reservations\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Delete.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:33:57.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Tables\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tables\\Details.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Tables\\Details.cshtml",
+              "RelativeToolTip": "Views\\Tables\\Details.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T13:06:34.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Tables\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tables\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Tables\\Create.cshtml",
+              "RelativeToolTip": "Views\\Tables\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:33:30.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Tables\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tables\\Edit.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Tables\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Tables\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T13:08:07.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\LibraryModel\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\Models\\Table.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\LibraryModel\\Models\\Table.cs",
+              "RelativeToolTip": "..\\LibraryModel\\Models\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:00:07.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Restaurants\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Restaurants\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Restaurants\\Create.cshtml",
+              "RelativeToolTip": "Views\\Restaurants\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:27:49.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Reservations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Edit.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Reservations\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:33:58.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CustomersGrpc\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomersGrpc\\Details.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CustomersGrpc\\Details.cshtml",
+              "RelativeToolTip": "Views\\CustomersGrpc\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T16:15:57.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CustomersGrpc\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomersGrpc\\Delete.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CustomersGrpc\\Delete.cshtml",
+              "RelativeToolTip": "Views\\CustomersGrpc\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T16:16:12.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\LibraryModel\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\Models\\Customer.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\LibraryModel\\Models\\Customer.cs",
+              "RelativeToolTip": "..\\LibraryModel\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:52:51.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:17:57.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PresenceTracker.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\PresenceTracker.cs",
+              "RelativeDocumentMoniker": "PresenceTracker.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\PresenceTracker.cs",
+              "RelativeToolTip": "PresenceTracker.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:06:46.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\GrpcCustomersService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GrpcCustomersService\\Program.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\GrpcCustomersService\\Program.cs",
+              "RelativeToolTip": "..\\GrpcCustomersService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:19:34.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\GrpcCustomersService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\GrpcCustomersService\\appsettings.json",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\GrpcCustomersService\\appsettings.json",
+              "RelativeToolTip": "..\\GrpcCustomersService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T16:24:45.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CustomersCRUDGrpc.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\obj\\Debug\\net8.0\\Protos\\CustomersCRUDGrpc.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Protos\\CustomersCRUDGrpc.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\obj\\Debug\\net8.0\\Protos\\CustomersCRUDGrpc.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\Protos\\CustomersCRUDGrpc.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAwwOoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:20:57.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GrpcCrudService.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\GrpcCustomersService\\Services\\GrpcCrudService.cs",
+              "RelativeDocumentMoniker": "..\\GrpcCustomersService\\Services\\GrpcCrudService.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\GrpcCustomersService\\Services\\GrpcCrudService.cs",
+              "RelativeToolTip": "..\\GrpcCustomersService\\Services\\GrpcCrudService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:17:52.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T16:29:06.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CustomersGrpc\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomersGrpc\\Edit.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CustomersGrpc\\Edit.cshtml",
+              "RelativeToolTip": "Views\\CustomersGrpc\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T16:15:44.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:11:40.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GrpcCustomersService",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "RelativeDocumentMoniker": "..\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "RelativeToolTip": "..\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T16:08:32.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Sirbu_Iulia_Proiect_Restaurante.csproj",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Sirbu_Iulia_Proiect_Restaurante.csproj",
+              "RelativeDocumentMoniker": "Sirbu_Iulia_Proiect_Restaurante.csproj",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Sirbu_Iulia_Proiect_Restaurante.csproj",
+              "RelativeToolTip": "Sirbu_Iulia_Proiect_Restaurante.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T19:48:18.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "customersCRUD.proto",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\GrpcCustomersService\\Protos\\customersCRUD.proto",
+              "RelativeDocumentMoniker": "..\\GrpcCustomersService\\Protos\\customersCRUD.proto",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\GrpcCustomersService\\Protos\\customersCRUD.proto",
+              "RelativeToolTip": "..\\GrpcCustomersService\\Protos\\customersCRUD.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-10T12:14:42.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\LibraryModel\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\LibraryModel\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "..\\LibraryModel\\Data\\LibraryContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:52:45.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GrpcCustomersService.csproj",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "RelativeDocumentMoniker": "..\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "RelativeToolTip": "..\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T12:15:15.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T11:36:39.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T11:37:14.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Roles\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Update.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Roles\\Update.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Update.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T11:40:06.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RoleModification.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\RoleModification.cs",
+              "RelativeDocumentMoniker": "Models\\RoleModification.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\RoleModification.cs",
+              "RelativeToolTip": "Models\\RoleModification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:43:27.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RoleEdit.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\RoleEdit.cs",
+              "RelativeDocumentMoniker": "Models\\RoleEdit.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\RoleEdit.cs",
+              "RelativeToolTip": "Models\\RoleEdit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:44:15.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Claims\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Claims\\Index.cshtml",
+              "RelativeToolTip": "Views\\Claims\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T11:01:13.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Claims\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Claims\\Create.cshtml",
+              "RelativeToolTip": "Views\\Claims\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T11:02:20.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LibraryWebAPI.csproj",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "RelativeToolTip": "..\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T19:49:16.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "20241209195005_identityscript.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Migrations\\Identity\\20241209195005_identityscript.cs",
+              "RelativeDocumentMoniker": "Migrations\\Identity\\20241209195005_identityscript.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Migrations\\Identity\\20241209195005_identityscript.cs",
+              "RelativeToolTip": "Migrations\\Identity\\20241209195005_identityscript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:50:05.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LibraryModel.csproj",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\LibraryModel\\LibraryModel.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\LibraryModel.csproj",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\LibraryModel\\LibraryModel.csproj",
+              "RelativeToolTip": "..\\LibraryModel\\LibraryModel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T18:23:26.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-09T19:34:01.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:12:34.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:12:44.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\LibraryWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\LibraryWebAPI\\appsettings.json",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\LibraryWebAPI\\appsettings.json",
+              "RelativeToolTip": "..\\LibraryWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T18:36:14.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\LibraryWebAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "..\\LibraryWebAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\LibraryWebAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "..\\LibraryWebAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:39:11.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "LibraryWebAPI",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "RelativeToolTip": "..\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T18:43:04.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\LibraryWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LibraryWebAPI\\Program.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\LibraryWebAPI\\Program.cs",
+              "RelativeToolTip": "..\\LibraryWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:37:08.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Statistics.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Home\\Statistics.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Statistics.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Home\\Statistics.cshtml",
+              "RelativeToolTip": "Views\\Home\\Statistics.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T21:31:37.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ReservationStatistics.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\LibraryViewModels\\ReservationStatistics.cs",
+              "RelativeDocumentMoniker": "Models\\LibraryViewModels\\ReservationStatistics.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\LibraryViewModels\\ReservationStatistics.cs",
+              "RelativeToolTip": "Models\\LibraryViewModels\\ReservationStatistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:28:52.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:14:38.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CuisineTypes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CuisineTypes\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CuisineTypes\\Index.cshtml",
+              "RelativeToolTip": "Views\\CuisineTypes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T20:40:04.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RestaurantIndexData.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\LibraryViewModels\\RestaurantIndexData.cs",
+              "RelativeDocumentMoniker": "Models\\LibraryViewModels\\RestaurantIndexData.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\LibraryViewModels\\RestaurantIndexData.cs",
+              "RelativeToolTip": "Models\\LibraryViewModels\\RestaurantIndexData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:24:05.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "RestaurantViewModel.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\RestaurantViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RestaurantViewModel.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\RestaurantViewModel.cs",
+              "RelativeToolTip": "Models\\RestaurantViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:11:24.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "dbo.Reservation.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryContext_3852c061_0757_4fad_a342_42856ce4e749/True/SqlTable/dbo.Reservation.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryContext_3852c061_0757_4fad_a342_42856ce4e749/True/SqlTable/dbo.Reservation.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-08T21:46:03.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CuisineTypes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\CuisineTypes\\Edit.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CuisineTypes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\CuisineTypes\\Edit.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T20:40:22.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "PaginatedList.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\PaginatedList.cs",
+              "RelativeToolTip": "PaginatedList.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:48:07.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CuisineTypes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\CuisineTypes\\Details.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CuisineTypes\\Details.cshtml",
+              "RelativeToolTip": "Views\\CuisineTypes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T20:36:38.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CuisineTypes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\CuisineTypes\\Delete.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CuisineTypes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\CuisineTypes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T20:40:32.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CuisineTypes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\CuisineTypes\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\CuisineTypes\\Create.cshtml",
+              "RelativeToolTip": "Views\\CuisineTypes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T20:40:37.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Restaurants\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Restaurants\\Delete.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Restaurants\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Restaurants\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:53:12.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:46:08.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:45:57.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:45:54.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:45:52.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Restaurants\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Restaurants\\Edit.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Restaurants\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Restaurants\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:27:39.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Restaurants\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Restaurants\\Details.cshtml",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Views\\Restaurants\\Details.cshtml",
+              "RelativeToolTip": "Views\\Restaurants\\Details.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:27:40.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20241208171433_CreateDatabases.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Migrations\\20241208171433_CreateDatabases.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241208171433_CreateDatabases.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Migrations\\20241208171433_CreateDatabases.cs",
+              "RelativeToolTip": "Migrations\\20241208171433_CreateDatabases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:14:33.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\lab_MPA\\PROIECT\\Sirbu_Iulia_Proiect_Restaurante\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:42:59.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Reservation Notifications";
+}
+
+<h1>Notificări pentru rezervări</h1>
+
+<div id="notifications-container">
+    <h2>Notificări în timp real</h2>
+    <ul id="notifications-list">
+       
+    </ul>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+<script src="~/js/reservationNotification.js"></script>
+
+<style>
+    #notifications-container {
+        margin: 20px 0;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        max-width: 600px;
+    }
+
+    #notifications-list {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        max-height: 300px;
+        overflow-y: auto;
+    }
+
+        #notifications-list li {
+            padding: 8px;
+            margin: 4px 0;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+</style>

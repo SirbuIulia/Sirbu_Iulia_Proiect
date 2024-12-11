@@ -1,0 +1,53 @@
+﻿@model Sirbu_Iulia_Proiect_Restaurante.Models.Restaurant
+
+@{
+    ViewData["Title"] = "Adaugă Restaurant";
+}
+
+<div class="container mt-4">
+    <h1 class="display-5">Adaugă Restaurant</h1>
+    <hr />
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label">Nume</label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Address" class="form-label">Adresă</label>
+                    <input asp-for="Address" class="form-control" />
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Phone" class="form-label">Nr. de telefon</label>
+                    <input asp-for="Phone" class="form-control" />
+                    <span asp-validation-for="Phone" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="CuisineTypeID" class="form-label">Tip Bucătărie</label>
+                    <select asp-for="CuisineTypeID" class="form-select" asp-items="ViewBag.CuisineTypeID"></select>
+                    <span asp-validation-for="CuisineTypeID" class="text-danger"></span>
+                </div>
+
+                <div class="d-flex justify-content-between">
+                    <input type="submit" value="Adaugă" class="btn btn-primary" />
+                    <a class="btn btn-secondary" asp-action="Index">Înapoi</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

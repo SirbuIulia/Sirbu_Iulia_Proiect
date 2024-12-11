@@ -1,0 +1,34 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Sirbu_Iulia_Proiect_Restaurante.Models.Table
+
+<h1>Editează Masă</h1>
+
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="Number" class="control-label">Număr Masă</label>
+        <input asp-for="Number" class="form-control" />
+        <span asp-validation-for="Number" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Capacity" class="control-label">Capacitate</label>
+        <input asp-for="Capacity" class="form-control" />
+        <span asp-validation-for="Capacity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="RestaurantID" class="control-label">Restaurant</label>
+        <select asp-for="RestaurantID" asp-items="@(ViewData["Restaurants"] as IEnumerable<SelectListItem>)" class="form-control"></select>
+        <span asp-validation-for="RestaurantID" class="text-danger"></span>
+    </div>
+
+    <input type="hidden" asp-for="ID" />
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Salvează</button>
+        <a asp-action="Index" asp-route-restaurantId="@Model.RestaurantID" class="btn btn-secondary">Anulează</a>
+    </div>
+</form>

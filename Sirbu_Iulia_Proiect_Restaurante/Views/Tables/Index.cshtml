@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Sirbu_Iulia_Proiect_Restaurante.Models.Table>
+
+<h1>Mese pentru Restaurant</h1>
+@if (ViewData["RestaurantName"] != null)
+{
+    <h2>@ViewData["RestaurantName"]</h2>
+}
+
+<p>
+    <a asp-action="Create" asp-route-restaurantId="@ViewData["RestaurantID"]" class="btn btn-primary">Adaugă Masă</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Restaurant</th>
+            <th>Număr masă</th>
+            <th>Capacitate</th>
+            <th>Acțiuni</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Restaurant.Name</td>
+                <td>@item.Number</td>
+                <td>@item.Capacity</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.ID" class="btn btn-info">Detalii</a>
+                    <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-warning">Editează</a>
+                    <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-danger">Șterge</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

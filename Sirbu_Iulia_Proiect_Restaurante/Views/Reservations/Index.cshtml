@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Sirbu_Iulia_Proiect_Restaurante.Models.Reservation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Rezervări</h1>
+
+@* <a asp-action="Create" class="btn btn-success"> *@
+@*     <i class="bi bi-plus-lg"></i> Adaugă Rezervare *@
+@* </a> *@
+
+<table class="table table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                Data Rezervării
+            </th>
+            <th>
+               Număr de Persoane
+            </th>
+            <th>
+                Restaurant
+            </th>
+            <th>
+                Masă
+            </th>
+            <th>
+                Client
+            </th>
+            <th>Acțiuni</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ReservationDate</td>
+                <td>@item.NumberOfPeople</td>
+                <td>@item.Restaurant?.Name</td> 
+                <td>@item.Table?.ID</td>
+                <td>@item.Customer?.Name</td> 
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.ID" class="btn btn-info btn-sm">Detalii</a>
+                    <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-danger btn-sm">Șterge</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
